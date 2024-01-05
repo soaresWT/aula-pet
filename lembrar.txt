@@ -1,0 +1,13 @@
+aula-pet
+
+npm install prisma --save-dev
+npm install nodemon
+
+"type": "module",
+
+import { PrismaClient } from '@prisma/client'
+
+const prisma = new PrismaClient()	
+app.use(json())
+
+{ "data": user }
